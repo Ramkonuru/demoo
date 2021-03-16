@@ -1,0 +1,13 @@
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.exe
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.deps.json
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.runtimeconfig.json
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.runtimeconfig.dev.json
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.dll
+F:\C#\Cal\Cal\bin\Debug\netcoreapp3.1\Cal.pdb
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.csprojAssemblyReference.cache
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.AssemblyInfoInputs.cache
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.AssemblyInfo.cs
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.csproj.CoreCompileInputs.cache
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.dll
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.pdb
+F:\C#\Cal\Cal\obj\Debug\netcoreapp3.1\Cal.genruntimeconfig.cache
